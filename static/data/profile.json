@@ -29,9 +29,15 @@
 			"hide": false
 		},
 		{
-			"name": "Thaiquote",
-			"details": "random thai quote generator",
-			"url": "thaiquote.nattawatt.com",
+			"name": "Hack Club Thai Translation",
+			"details": "Translate Hack Club Global site into Thai.",
+			"url": "thai.hackclub.com",
+			"hide": false
+		},
+		{
+			"name": "Cartoon Office Word",
+			"details": "Basic Word Processor App with Visual Basic.",
+			"url": "github.com/StoryHouseProduction/CartoonOffice",
 			"hide": false
 		}
 	],
