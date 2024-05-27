@@ -1,37 +1,31 @@
 {
 	"intro": {
-		"name": "Nattawatt Hongthong",
-		"nickname": "Khong",
-		"phone": "",
-		"email": "nattawatt.ho30@outlook.co.th",
-		"github": "RealNattawattHongthong",
-		"linkedin": "https://www.linkedin.com/in/nattawatt-hongthong/",
-		"location": "Bangkok, Thailand",
-		"website": "nattawatt.com"
+		"name": "Kritthapath Yaviraj",
+		"nickname": "Cartoon",
+		"phone": "+66654844727",
+		"email": "kritthapath@toonstorytime.me",
+		"github": "toonnongaeoy",
+		"linkedin": "https://www.linkedin.com/in/toonnongaeoy/",
+		"location": "Nonthaburi, Thailand",
+		"website": "toonstorytime.me"
 	},
 	"projects": [
 		{
 			"name": "Main webpage",
-			"details": "Main webpage",
-			"url": "nattawatt.com",
+			"details": "Main webpage, you name it!",
+			"url": "toonstorytime.me",
 			"hide": false
 		},
 		{
-			"name": "Digital Garden",
-			"details": "My notes & stuff (Second Brain)",
-			"url": "github.com/RealNattawattHongthong/digital-garden",
+			"name": "Tree's Site.",
+			"details": "Main webpage, you name it!",
+			"url": "tree.toonstorytime.me",
 			"hide": false
 		},
 		{
-			"name": "List of Hello World!",
-			"details": "Contribute with 10+ Contributor!, your own Hello World! in any language.",
-			"url": "github.com/TheKaushikGoswami/hello-world",
-			"hide": false
-		},
-		{
-			"name": "Linktree",
-			"details": "List of my social media links",
-			"url": "tree.nattawatt.com",
+			"name": "My other site.",
+			"details": "When the old net, meet the new net. koinuko.pink v5 and v6 style with mysite v1 with 80-90s code style.",
+			"url": "toonnongaeoy.dino.icu",
 			"hide": false
 		},
 		{
@@ -44,19 +38,19 @@
 	"technologies": [
 		{
 			"section": "Languages:",
-			"details": "Ruby, JavaScript, Node.js (strong). TypeScript, SQL (proficient)., Python (strong), Go, Shell (familiar)"
+			"details": "SQL (proficient), Python (strong), Shell (familiar), Visual Basic, C"
 		},
 		{
 			"section": "Frameworks:",
-			"details": "Ruby on Rails, ReactJS, NextJS, NestJS, SvelteJS, TailwindCSS, Bootstrap"
+			"details": "TailwindCSS (familiar), Bootstrap (familiar)"
 		},
 		{
 			"section": "Tools:",
-			"details": "Git, Terraform, Docker, Kubernetes, Helm, ArgoCD, FluxCD, Robot Framework, Selenium, Zsh, GitHub Codespaces"
+			"details": "Git, Docker, Zsh, GitHub Codespaces"
 		},
 		{
 			"section": "Other:",
-			"details": "AWS, GCP, Firebase, Vercel, DigitalOcean, Cloud66, Github Actions, CircleCI, CloudFlare"
+			"details": "AWS, Firebase, Vercel, Github Actions, CloudFlare"
 		}
 	],
 	"workExperiences": [
@@ -71,23 +65,27 @@
 	],
 	"educations": [
 		{
-			"head": " Bodindecha (Sing Singhaseni) School",
-			"details": "Bodindecha (Sing Singhaseni) School, TH. 2024 - Now"
+			"head": "Dusit Commerical Nonthaburi Vocational College",
+			"details": "Dusit Commerical Nonthaburi Vocational College, TH. 2022 - Now"
 		},
 		{
-			"head": "Chonradsadornumrung School",
-			"details": "Chonradsadornumrung School (English Prgram Dept.), TH. 2021-2023 (GPA 3.42)"
+			"head": "Pramaesakolsongkroh School",
+			"details": "Pramaesakolsongkroh School, TH. 2009-2022 (GPA 2.80)"
+		},
+		{
+			"head": "Maree Wittaya Nonthaburi School",
+			"details": "Maree Wittaya Nonthaburi School, TH. 2008-2009 (Pre-Kintergarden)"
 		}
 	],
 	"interests": [
 		"Areas : Coding, Productivity & Life-hacks, Mechanical Keyboards",
-		"Typing : 60 WPM, 100% accuracy",
-		"Games : Music games, FPS, MOBA, Puzzle",
+		"Typing : 35 WPM, 98% accuracy",
+		"Games : Portal, Portal 2, Minecraft, Genshin Impact, Roblox",
 		"Music : Anything...",
 		"Remote working is a OK. I extensively use self time tracking app for all my works."
 	],
 	"resumeUrl": {
-		"sourceLink": "https://github.com/RealNattawattHongthong",
-		"fullVersion": "https://resume.nattawatt.com"
+		"sourceLink": "https://github.com/toonnongaeoy",
+		"fullVersion": "https://resume.toonstorytime.me"
 	}
 }
