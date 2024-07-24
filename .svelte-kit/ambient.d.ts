@@ -36,6 +36,7 @@ declare module '$env/static/private' {
 	export const XDG_SESSION_PATH: string;
 	export const XDG_MENU_PREFIX: string;
 	export const TERM_PROGRAM_VERSION: string;
+	export const ICEAUTHORITY: string;
 	export const NODE: string;
 	export const MEMORY_PRESSURE_WRITE: string;
 	export const COLOR: string;
@@ -64,7 +65,6 @@ declare module '$env/static/private' {
 	export const npm_package_version: string;
 	export const MEMORY_PRESSURE_WATCH: string;
 	export const WAYLAND_DISPLAY: string;
-	export const LOCAL_GIT_DIRECTORY: string;
 	export const GIT_ASKPASS: string;
 	export const XDG_SEAT_PATH: string;
 	export const INVOCATION_ID: string;
@@ -75,7 +75,6 @@ declare module '$env/static/private' {
 	export const npm_lifecycle_script: string;
 	export const VSCODE_GIT_ASKPASS_EXTRA_ARGS: string;
 	export const XKB_DEFAULT_LAYOUT: string;
-	export const XDG_ACTIVATION_TOKEN: string;
 	export const npm_config_npm_version: string;
 	export const XDG_SESSION_CLASS: string;
 	export const TERM: string;
@@ -157,6 +156,7 @@ declare module '$env/dynamic/private' {
 		XDG_SESSION_PATH: string;
 		XDG_MENU_PREFIX: string;
 		TERM_PROGRAM_VERSION: string;
+		ICEAUTHORITY: string;
 		NODE: string;
 		MEMORY_PRESSURE_WRITE: string;
 		COLOR: string;
@@ -185,7 +185,6 @@ declare module '$env/dynamic/private' {
 		npm_package_version: string;
 		MEMORY_PRESSURE_WATCH: string;
 		WAYLAND_DISPLAY: string;
-		LOCAL_GIT_DIRECTORY: string;
 		GIT_ASKPASS: string;
 		XDG_SEAT_PATH: string;
 		INVOCATION_ID: string;
@@ -196,7 +195,6 @@ declare module '$env/dynamic/private' {
 		npm_lifecycle_script: string;
 		VSCODE_GIT_ASKPASS_EXTRA_ARGS: string;
 		XKB_DEFAULT_LAYOUT: string;
-		XDG_ACTIVATION_TOKEN: string;
 		npm_config_npm_version: string;
 		XDG_SESSION_CLASS: string;
 		TERM: string;

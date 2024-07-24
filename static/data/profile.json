@@ -44,11 +44,11 @@
 	"technologies": [
 		{
 			"section": "Languages:",
-			"details": "SQL (proficient), Python (strong), Shell (familiar), Visual Basic, C"
+			"details": "SQL (proficient), PHP, Python (strong), Shell (familiar), Visual Basic, C , C++"
 		},
 		{
 			"section": "Frameworks:",
-			"details": "TailwindCSS (familiar), Bootstrap (familiar)"
+			"details": "TailwindCSS (familiar), Bootstrap (familiar), Flask (familiar), Svelte (familiar)"
 		},
 		{
 			"section": "Tools:",
@@ -86,7 +86,7 @@
 	"interests": [
 		"Areas : Coding, Productivity & Life-hacks, Mechanical Keyboards",
 		"Typing : 35 WPM, 98% accuracy",
-		"Games : Portal, Portal 2, Minecraft, Genshin Impact, Roblox",
+		"Games : Portal, Portal 2, Minecraft, Genshin Impact, Ensemble Stars Music (JP) , Roblox",
 		"Music : Anything...",
 		"Remote working is a OK. I extensively use self time tracking app for all my works."
 	],
