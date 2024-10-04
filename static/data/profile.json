@@ -4,7 +4,7 @@
 		"nickname": "Cartoon",
 		"phone": "+66654844727",
 		"email": "kritthapath@toonstorytime.me",
-		"github": "toonnongaeoy",
+		"github": "toonoeichi",
 		"linkedin": "toonnongaeoy",
 		"location": "Nonthaburi, Thailand",
 		"website": "toonstorytime.me"
@@ -12,13 +12,13 @@
 	"projects": [
 		{
 			"name": "Main webpage",
-			"details": "Main webpage, you name it!",
+			"details": "Main webpage, you name it! Based on koinuko.pink v5 and v6 style with mysite v1",
 			"url": "toonstorytime.me",
 			"hide": false
 		},
 		{
 			"name": "Tree's Site.",
-			"details": "Main webpage, you name it!",
+			"details": "My personal link-in-bio, linktree clone kinda style.",
 			"url": "tree.toonstorytime.me",
 			"hide": false
 		},
@@ -39,7 +39,13 @@
 			"details": "Basic Word Processor App with Visual Basic.",
 			"url": "github.com/StoryHouseProduction/CartoonOffice",
 			"hide": false
-		}
+		},
+		{
+			"name": "What the lyrics?",
+			"details": "My lyrics site with all the weird , dirty , and everything that possible in the Lyrics!",
+			"url": "wtlyrics.toonstorytime.me",
+			"hide": false
+		},
 	],
 	"technologies": [
 		{
@@ -72,7 +78,7 @@
 	"educations": [
 		{
 			"head": "Dusit Commerical Nonthaburi Vocational College",
-			"details": "Dusit Commerical Nonthaburi Vocational College, TH. 2022 - 2025 (GPA 3.xx)"
+			"details": "Dusit Commerical Nonthaburi Vocational College, TH. 2022 - 2025 (GPA ≈ 3.70)"
 		},
 		{
 			"head": "Pramaesakolsongkroh School",
@@ -91,7 +97,7 @@
 		"Remote working is a OK. I extensively use self time tracking app for all my works."
 	],
 	"resumeUrl": {
-		"sourceLink": "https://github.com/toonnongaeoy",
+		"sourceLink": "https://github.com/toonoeichi",
 		"fullVersion": "https://resume.toonstorytime.me"
 	}
 }
